@@ -3,8 +3,8 @@
 		if($("#revolutionSlider").get(0)) {
 			$("#revolutionSlider").revolution({
 				delay:9000,
-				startheight:500,
-				startwidth:960,
+				startheight:1920,
+				startwidth:1080,
 
 				hideThumbs:10,
 
