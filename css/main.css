@@ -13,6 +13,7 @@ textarea {
 body {
     font-size: 1em;
     line-height: 1.4;
+    overflow:hidden;
 }
 
 ::-moz-selection {
@@ -64,7 +65,7 @@ textarea {
 /* Home Slider - Revolution Slider */
 #revolutionSlider {
 	background: #666;
-	max-height: 1080px;
+	max-height: 1280px;
 	overflow: hidden;
 	padding: 0;
 	position: relative;
