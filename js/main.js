@@ -8,16 +8,6 @@
 
 				hideThumbs:10,
 
-				thumbWidth:100,
-				thumbHeight:50,
-				thumbAmount:5,
-
-				navigationType:"both",
-				navigationArrows:"verticalcentered",
-				navigationStyle:"round",
-
-				touchenabled:"on",
-				onHoverStop:"on",
 
 				navOffsetHorizontal:0,
 				navOffsetVertical:20,
